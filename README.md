@@ -13,7 +13,7 @@ I'm a lifelong learner and love to stay up to date with the latest industry tren
 If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
 
 ## My Portfolio 
-**[Portfolio](https://portfolio-caleb.netlify.app/)**
+**[Portfolio](https://calebnwaizu.vercel.app/)**
 
 ## **LANGUAGES** :mortar_board:
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
