@@ -2,9 +2,11 @@
 
 # Hi! I'm Caleb. It's nice to meet you. :wave:
 ## About Me :man:
-I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, React and Ruby on Rails.
+I'm a full-stack web developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, React, Svelte, NodeJS with TypeScript.
 
 I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML and CSS to create visually appealing layouts. Plus, I have the added bonus of experience in integrating front-end components with Ruby on Rails back-end systems.
+
+As a full-stack developer, I'm more drawn to the logical operations of a system. And this is the reason I'm more tuned to the backend. The technologies I'm well skilled at are NodeJS, Python, PHP for the language, MongoDB and PostgreSQL for database, NestJS for the framework, and Docker & Linux for deployment.
 
 I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
 
