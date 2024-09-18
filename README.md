@@ -2,7 +2,6 @@
 
 # Hi! I'm Caleb. It's nice to meet you. :wave:
 ## About Me :man:
-Here's your profile formatted using GitHub-flavored markdown:
 
 # Full-Stack Web Developer
 
