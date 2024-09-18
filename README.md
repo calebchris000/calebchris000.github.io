@@ -2,15 +2,44 @@
 
 # Hi! I'm Caleb. It's nice to meet you. :wave:
 ## About Me :man:
-I'm a full-stack web developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, React, Svelte, NodeJS with TypeScript.
+Here's your profile formatted using GitHub-flavored markdown:
 
-I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML and CSS to create visually appealing layouts. Plus, I have the added bonus of experience in integrating front-end components with Ruby on Rails back-end systems.
+# Full-Stack Web Developer
 
-As a full-stack developer, I'm more drawn to the logical operations of a system. And this is the reason I'm more tuned to the backend. The technologies I'm well skilled at are NodeJS, Python, PHP for the language, MongoDB and PostgreSQL for database, NestJS for the framework, and Docker & Linux for deployment.
+## Technical Skills
 
-I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
+### Frontend
+- HTML5, CSS3, and modern JavaScript (ES6+)
+- React and Svelte for building dynamic, responsive user interfaces
+- Expertise in creating visually appealing, accessible layouts
 
-I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
+### Backend
+- Node.js with TypeScript for robust server-side applications
+- Python and PHP for versatile backend solutions
+- Database management with MongoDB and PostgreSQL
+- NestJS framework for scalable and maintainable architectures
+
+### DevOps
+- Docker containerization for consistent deployment
+- Linux server administration
+- Git for version control and collaborative development
+
+## Professional Summary
+
+As a seasoned full-stack web developer, I bring a unique blend of technical expertise and creative problem-solving to every project. While I excel across the full stack, I have a particular affinity for backend development, relishing the opportunity to architect complex systems and optimize server-side logic. This passion is complemented by my frontend skills, allowing me to create cohesive, end-to-end solutions.
+
+My experience includes successfully integrating React frontends with Ruby on Rails backends, demonstrating my adaptability across different technology stacks. I've contributed to projects of various scales, consistently delivering clean, well-documented, and maintainable code.
+
+## Approach
+
+- **Continuous Learning**: Committed to staying abreast of industry trends and best practices
+- **Collaboration**: Thrive in team environments, leveraging strong communication skills
+- **Problem-Solving**: Enjoy finding creative solutions to technical challenges
+- **Code Quality**: Focus on writing clean, maintainable, and well-documented code
+
+## Let's Connect
+
+If you're seeking a developer who combines technical prowess with a passion for innovation, I'm eager to discuss how my skills can contribute to your next project. Let's collaborate to bring your vision to life and create something truly exceptional!
 
 If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
 
