@@ -10,6 +10,7 @@
 ### Frontend
 - HTML5, CSS3, and modern JavaScript (ES6+)
 - React and Svelte for building dynamic, responsive user interfaces
+- TypeScript for type checking and intellisense
 - Expertise in creating visually appealing, accessible layouts
 
 ### Backend
@@ -25,7 +26,7 @@
 
 ## Professional Summary
 
-As a seasoned full-stack web developer, I bring a unique blend of technical expertise and creative problem-solving to every project. While I excel across the full stack, I have a particular affinity for backend development, relishing the opportunity to architect complex systems and optimize server-side logic. This passion is complemented by my frontend skills, allowing me to create cohesive, end-to-end solutions.
+As a seasoned full-stack developer, I bring a unique blend of technical expertise and creative problem-solving to every project. While I excel across the full stack, I have a particular affinity for backend development, relishing the opportunity to architect complex systems and optimize server-side logic. This passion is complemented by my frontend skills, allowing me to create cohesive, end-to-end solutions.
 
 My experience includes successfully integrating React frontends with Ruby on Rails backends, demonstrating my adaptability across different technology stacks. I've contributed to projects of various scales, consistently delivering clean, well-documented, and maintainable code.
 
@@ -53,8 +54,6 @@ If you're looking for a front-end developer who brings passion, experience, and 
  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
- ![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
  ### **Terminal** 
  ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -64,7 +63,6 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 ### **IDE**
 
-![sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
@@ -79,23 +77,15 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 </div>
 
-### **Workflows**
-
-[![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://google.com)
-![stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white&link=google.com)
-
 ### **Design Workspace**
 
 <div style="display: flex">
 
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#)
-[![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
-[![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](#)
 </div>
 
 ### **Operating System**
-[![mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
+[![Fedora](https://img.shields.io/badge/Fedora-87CF3E?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 
 ## **CONTACT ME**
